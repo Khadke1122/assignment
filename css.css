@@ -1,0 +1,52 @@
+body{
+    display:flex;
+    background-color:#CBD6CB;
+}
+
+.container{
+    margin:auto;
+    width: 1000px;
+    height: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-spacing: 10;
+}
+
+.second{
+    text-align:center;
+    height: 700px;
+}
+
+.floorplan{
+    line-height: 1.8;
+}
+
+li{
+    list-style-position: inside;
+}
+
+.Homeimg{
+    text-align:center;
+}
+
+.Row1{
+    padding:0px;
+    margin:0px;
+    border-collapse: collapse;
+}
+
+.img1{
+    width:153px; 
+    height:180px;
+}
+
+.para2{
+    margin-top: 0px;
+}
+
+.Times{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.anchor{
+    color:#066;
+}
